@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WindowsElementEntity>
    <description></description>
-   <name>Edit(2)</name>
+   <name>Txt_LogoutOrNot</name>
    <tag></tag>
-   <locator>//Window/Edit[2]</locator>
-   <locatorStrategy>XPATH</locatorStrategy>
+   <locator>BẠN CÓ MUỐN THOÁT KHÔNG?</locator>
+   <locatorStrategy>NAME</locatorStrategy>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -24,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>Name</name>
       <type>Main</type>
-      <value>Username</value>
+      <value>BẠN CÓ MUỐN THOÁT KHÔNG?</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <matchCondition>equals</matchCondition>
       <name>ClassName</name>
       <type>Main</type>
-      <value>WindowsForms10.EDIT.app.0.13965fa_r6_ad1</value>
+      <value>WindowsForms10.STATIC.app.0.13965fa_r6_ad1</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -59,14 +59,14 @@
       <matchCondition>equals</matchCondition>
       <name>IsKeyboardFocusable</name>
       <type>Main</type>
-      <value>True</value>
+      <value>False</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>RuntimeId</name>
       <type>Main</type>
-      <value>42.199550</value>
+      <value>42.134840</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>45</value>
+      <value>41</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <matchCondition>equals</matchCondition>
       <name>AutomationId</name>
       <type>Main</type>
-      <value>Txt_Username</value>
+      <value>i</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -136,35 +136,35 @@
       <matchCondition>equals</matchCondition>
       <name>LocalizedControlType</name>
       <type>Main</type>
-      <value>edit</value>
+      <value>text</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>290</value>
+      <value>546</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>683</value>
+      <value>170</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>125</value>
+      <value>243</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ProcessId</name>
       <type>Main</type>
-      <value>15240</value>
+      <value>13344</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>

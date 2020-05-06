@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WindowsElementEntity>
    <description></description>
-   <name>Pane</name>
+   <name>Btn_Yes</name>
    <tag></tag>
-   <locator>//Window/Pane[2]</locator>
+   <locator>//Window/Window[1]/Window[1]/Pane[2]/Text[1]</locator>
    <locatorStrategy>XPATH</locatorStrategy>
    <properties>
       <isSelected>false</isSelected>
@@ -24,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>Name</name>
       <type>Main</type>
-      <value>Log in</value>
+      <value>YES</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <matchCondition>equals</matchCondition>
       <name>ClassName</name>
       <type>Main</type>
-      <value>WindowsForms10.Window.8.app.0.13965fa_r6_ad1</value>
+      <value>WindowsForms10.STATIC.app.0.13965fa_r6_ad1</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -59,14 +59,14 @@
       <matchCondition>equals</matchCondition>
       <name>IsKeyboardFocusable</name>
       <type>Main</type>
-      <value>True</value>
+      <value>False</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>RuntimeId</name>
       <type>Main</type>
-      <value>42.199588</value>
+      <value>42.724304</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <matchCondition>equals</matchCondition>
       <name>AutomationId</name>
       <type>Main</type>
-      <value>Btn_Login</value>
+      <value>txttext</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -136,35 +136,35 @@
       <matchCondition>equals</matchCondition>
       <name>LocalizedControlType</name>
       <type>Main</type>
-      <value>pane</value>
+      <value>text</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>243</value>
+      <value>146</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>639</value>
+      <value>344</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>338</value>
+      <value>294</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ProcessId</name>
       <type>Main</type>
-      <value>15240</value>
+      <value>13344</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>

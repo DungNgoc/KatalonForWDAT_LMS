@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WindowsElementEntity>
    <description></description>
-   <name>Edit</name>
+   <name>Tile_QuanLyDocGia</name>
    <tag></tag>
-   <locator>//Window/Edit[2]</locator>
-   <locatorStrategy>XPATH</locatorStrategy>
+   <locator>Quản Lí Độc Giả</locator>
+   <locatorStrategy>NAME</locatorStrategy>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -24,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>Name</name>
       <type>Main</type>
-      <value>Username</value>
+      <value>Quản Lí Độc Giả</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <matchCondition>equals</matchCondition>
       <name>ClassName</name>
       <type>Main</type>
-      <value>WindowsForms10.EDIT.app.0.13965fa_r6_ad1</value>
+      <value>WindowsForms10.BUTTON.app.0.13965fa_r6_ad1</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <matchCondition>equals</matchCondition>
       <name>RuntimeId</name>
       <type>Main</type>
-      <value>42.199584</value>
+      <value>42.397474</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>45</value>
+      <value>215</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <matchCondition>equals</matchCondition>
       <name>AutomationId</name>
       <type>Main</type>
-      <value>Txt_Username</value>
+      <value>Tile_QuanLiDocGia</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -136,35 +136,35 @@
       <matchCondition>equals</matchCondition>
       <name>LocalizedControlType</name>
       <type>Main</type>
-      <value>edit</value>
+      <value>button</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>290</value>
+      <value>236</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>683</value>
+      <value>21</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>125</value>
+      <value>74</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ProcessId</name>
       <type>Main</type>
-      <value>15196</value>
+      <value>13344</value>
    </properties>
    <properties>
       <isSelected>false</isSelected>
